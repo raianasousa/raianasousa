@@ -1,5 +1,5 @@
-## Olá. Eu sou a Raiana!
-🌵 Pronomes: ela/dela 🌵
+## Hello. I'm Raiana!
+🌵 Pronouns: she/her 🌵
  <div>
   <a href="https://github.com/raianasousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raianasousa&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
