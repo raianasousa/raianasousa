@@ -1,40 +1,63 @@
-<!-- Início do Perfil de Raiana Santos -->
-
-<!-- Cabeçalho -->
-
 <div align="center">
-<h1 style="font-weight: bold;">Raiana Santos</h1>
-<p>Senior Product Manager | Estratégia Go-to-Market | Produtos B2B SaaS</p>
+  <img src="https://placehold.co/120x120/B2B8A3/FFFFFF?text=RS" width="100" style="border-radius: 50%; margin-bottom: 10px;" alt="Raiana Santos">
+  <h1 style="font-weight: bold; margin-top: 0;">Raiana Santos</h1>
+  <h3>Senior Technical Product Manager</h3>
+  <p>SQL/API Fluency | AI & Machine Learning | B2B SaaS & Platform Strategy</p>
 </div>
 
-🌱 Sobre Mim
+<br>
 
-Sou uma Product Manager apaixonada por transformar problemas complexos em soluções digitais intuitivas e escaláveis. Com experiência em estratégia de produto, Go-to-Market e análise de dados, meu foco é construir produtos que não apenas atendam às necessidades dos usuários, mas que também gerem um impacto significativo nos resultados do negócio.
+### 👩‍💻 About Me
+I am a **Technical Product Manager** with a **Computer Science background** and 5+ years of experience bridging the gap between Engineering and Business. 
 
-Meu objetivo é unir a visão de produto com uma execução impecável, colaborando com times de engenharia, design e marketing para entregar valor contínuo.
+Currently, I focus on building scalable **B2B SaaS** solutions and **AI-driven products**. I leverage my technical fluency (SQL, System Design, APIs) to empower engineering teams, creating a culture of ownership and high performance.
 
-🚀 Meu Cartão de visita digital
+* 🔭 **Current Focus:** Leading Freemium GTM & Platform Strategy at Docket.
+* 💡 **Superpower:** Translating complex business needs into clean technical specs.
+* 🌱 **Learning:** Advanced AI Models & Large-Scale Architecture.
 
-Para uma visão completa dos meus projetos, currículo e formas de contato, acesse meu cartão de visita digital. Ele foi criado para ser um hub profissional simples e direto.
+<br>
 
-<a href="https://raianasousa.github.io/" target="_blank">
-<img src="https://img.shields.io/badge/Acessar%20Cartão%20de%20Visita-%23B2B8A3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZHRoPSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNiA5bC0zIDNWNUg1djRhMyAzIDAgMCAxLTMgM3Y3aDR2LTdBNCA0IDAgMCAwIDYgOVoiLz48cGF0aCBkPSJNNiA5aDEyIi8+PHBhdGggZD0iTTE4IDl2MTBoNGwtMy01aC0xWiIvPjxwYXRoIGQ9Ik0xMiAxOXYtMyIvPjxwYXRoIGQ9Ik0xMiA5VjYiLz48cGF0aCBkPSJNMTIgNlYzSDh2MyIvPjwvc3ZnPg==">
-</a>
+<div align="center">
+  <a href="https://raianasousa.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%23B2B8A3?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a" alt="Website">
+  </a>
+  <a href="https://www.linkedin.com/in/ssouraiana/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
-📊 Minhas Estatísticas e Stacks
- <div align="center">
+<br>
+
+### 🛠️ Tech Stack & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white">
+</div>
+
+<br>
+
+### 📊 GitHub Stats
+<div align="center">
   <a href="https://github.com/raianasousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raianasousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raianasousa&layout=compact"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=raianasousa&show_icons=true&theme=graywhite&hide_border=true&bg_color=00000000">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raianasousa&layout=compact&theme=graywhite&hide_border=true&bg_color=00000000"/>
+  </a>
 </div>
+
 <div align="center">
-<img src="https://github.com/raianasousa/raianasousa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/raianasousa/raianasousa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
 
-📫 Conecte-se comigo
+<br>
 
-Vamos conversar sobre produtos, tecnologia ou novas oportunidades!
-
-
-
-<!-- Fim do Perfil -->
+<div align="center">
+  <sub>Let's connect and build something scalable! 🚀</sub>
+</div>
