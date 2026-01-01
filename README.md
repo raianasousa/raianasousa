@@ -23,7 +23,6 @@
 <br>
 
 <div align="center">
-
   <a href="https://raianasousa.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Meu_Portfólio-B2B8A3?style=for-the-badge&logo=github&logoColor=white&labelColor=9CA38F" height="35" alt="Portfolio" />
   </a>
@@ -31,27 +30,6 @@
   <a href="https://www.linkedin.com/in/ssouraiana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn_Profile-B2B8A3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=9CA38F" height="35" alt="LinkedIn" />
   </a>
-
-  <br><br>
-
-  <a href="https://drive.google.com/file/d/1vaWzJ6d7ojbdGGJPzOJECIhxp_1_fakl/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/CV_(Português)-FFFFFF?style=for-the-badge&logo=google-drive&logoColor=555&labelColor=ececec&color=777" height="30" alt="CV PT" />
-  </a>
-  &nbsp;
-  <a href="https://drive.google.com/drive/u/0/folders/1wSzXOxfK9my0CmvpSsZbf12A23nKW627" target="_blank">
-    <img src="https://img.shields.io/badge/Resume_(English)-FFFFFF?style=for-the-badge&logo=google-drive&logoColor=555&labelColor=ececec&color=777" height="30" alt="Resume EN" />
-  </a>
-
-  <br><br>
-
-  <a href="https://medium.com/@raianassousa" target="_blank">
-    <img src="https://img.shields.io/badge/Artigos_Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black&labelColor=ececec&color=777" height="30" alt="Medium" />
-  </a>
-  &nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Agendar_Conversa-FFFFFF?style=for-the-badge&logo=google-calendar&logoColor=black&labelColor=ececec&color=777" height="30" alt="Schedule" />
-  </a>
-
 </div>
 
 <br>
@@ -75,6 +53,8 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raianasousa&layout=compact&theme=graywhite&hide_border=true&bg_color=00000000"/>
   </a>
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github.com/raianasousa/raianasousa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
